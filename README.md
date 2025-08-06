@@ -1,0 +1,2 @@
+# Heart-disease-prediction-using-Random-Forest-Algorithm-
+Heart Disease Prediction using Random Forest Algorithm This project predicts the likelihood of heart disease in patients based on medical parameters using the Random Forest classification algorithm. The model is trained on historical health datasets that include features such as age, gender, cholesterol levels, blood pressure, and ECG results.
